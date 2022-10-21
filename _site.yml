@@ -1,0 +1,24 @@
+name: "my-website"
+navbar:
+  title: "Leo Yuan Tien"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "About"
+      icon: fa-user 
+      href: about.html
+    - text: "Research"
+      icon: fa-pencil 
+      href: Research.html
+    - text: "CV"
+      icon: fa-file-pdf-o
+      href: CV.html
+  right:
+    - text: "Email"
+      icon: fa-envelope-o
+      href: mailto:yuan.tien@duke.edu
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate

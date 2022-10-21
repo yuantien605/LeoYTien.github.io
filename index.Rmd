@@ -1,0 +1,16 @@
+---
+title: "My Homepage"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+ 
+Welcome! I am Leo Yuan Tien. You can find my background, research and CV here. 
+ 
+ 
+```{r out.width = "50%", fig.align = "center"}
+knitr::include_graphics("photo.jpg")
+```
+ 
+
