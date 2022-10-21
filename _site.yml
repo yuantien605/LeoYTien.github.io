@@ -1,3 +1,4 @@
+output_dir: "docs"  # docs directory of master or main branch
 name: "my-website"
 navbar:
   title: "Leo Yuan Tien"
