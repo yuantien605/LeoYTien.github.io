@@ -2,4 +2,15 @@
 title: "Research"
 ---
 
-My research interest is 
+I seek to explain the logic of using seemingly unreasonable violence against civilians and variations in civilian responses to extreme violence. 
+
+
+ 
+## Working Paper
+
+[***"The Logic of Scorched Earth Campaigns against Civilians in Civil Wars" ***](https://www.dropbox.com/s/65e7q9bqdkngy4q/Scorched_10.12.22.pdf?dl=0) 
+
+- replication codes:  (attach codes on GitHub)
+1. The exclusionary ideology project data came from and authorized by [Dr. Monty Marshall of the Center for Systemic Peace](https://www.systemicpeace.org/people.html). You should contact him for the data.
+
+2. You can visit [Professor Jessica Stanton's website](https://www.jessicastanton.org/book) for the data in the book ***Violence and Restraint in Civil War  ***, including the scorched earth binary data. 
