@@ -1,2 +1,2 @@
 # LeoYuanTien.github.io
-My website
+My academic website
