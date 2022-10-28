@@ -12,7 +12,7 @@ My current research looks at a prominent form of violence neglected by political
 
 I am applying to PhD programs in Political Science this year. 
  
-You can find my background, research and CV here. 
+You can find my research and CV here. 
  
  
 ```{r out.width = "40%", fig.align = "center"}
